@@ -13,5 +13,5 @@ Use
 ```
 HTML
 CSS
-JavaScript
+Javascript
 ```
